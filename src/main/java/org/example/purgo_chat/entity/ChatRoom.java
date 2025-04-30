@@ -17,5 +17,5 @@ public class ChatRoom {
     private String user1Name;
     private String user2Name;
     private Integer badwordCount;
-
+    private Integer leaveCount;
 }
